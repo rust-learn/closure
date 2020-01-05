@@ -1,0 +1,2 @@
+# closure
+Examples of closure
